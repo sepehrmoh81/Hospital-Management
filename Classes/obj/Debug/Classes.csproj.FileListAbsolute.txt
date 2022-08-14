@@ -1,0 +1,6 @@
+C:\Users\s.mohammadi\VSProjects\HospitalV1\Classes\bin\Debug\Classes.dll
+C:\Users\s.mohammadi\VSProjects\HospitalV1\Classes\bin\Debug\Classes.pdb
+C:\Users\s.mohammadi\VSProjects\HospitalV1\Classes\obj\Debug\Classes.csproj.AssemblyReference.cache
+C:\Users\s.mohammadi\VSProjects\HospitalV1\Classes\obj\Debug\Classes.csproj.CoreCompileInputs.cache
+C:\Users\s.mohammadi\VSProjects\HospitalV1\Classes\obj\Debug\Classes.dll
+C:\Users\s.mohammadi\VSProjects\HospitalV1\Classes\obj\Debug\Classes.pdb
