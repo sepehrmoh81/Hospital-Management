@@ -2,9 +2,8 @@
 {
     public class Person
     {
-        private string name;
-        private int age;
-        private string entryDate, dischargeDate;
-        private string doctorName, nurseName;
+        public int Id { get; set; }
+        public string Name { get; set; }
+        public int Age { get; set; }
     }
 }
